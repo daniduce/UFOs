@@ -7,10 +7,11 @@
   
 ## Results: 
   Users will find the webpage, for the most part, easy to navigate. They can easily search by certain filters if they have something in mind such as what country or the date of the sighting. 
-  https://user-images.githubusercontent.com/71396367/103156992-9ff3bd80-477c-11eb-8d90-5bbc2120b1c1.png
+ ![Screen Shot 2020-12-26 at 1 15 59 PM](https://user-images.githubusercontent.com/71396367/103156992-9ff3bd80-477c-11eb-8d90-5bbc2120b1c1.png)
   
   They can even filter what shapes were seen by eye witnesses in such sightings. 
-  https://user-images.githubusercontent.com/71396367/103156996-a5510800-477c-11eb-8b74-e7141bf1f0db.png
+  ![Screen Shot 2020-12-26 at 1 16 22 PM](https://user-images.githubusercontent.com/71396367/103156996-a5510800-477c-11eb-8b74-e7141bf1f0db.png)
+
   
   If they know all of the details, they can search by date, city, state, country and shape which should bring up the exact UFO sighting they may be looking for. 
 
